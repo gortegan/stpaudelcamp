@@ -1,0 +1,46 @@
+.modal-content {
+    border-radius: 1px;
+    padding: 20px;
+}
+
+#history {
+    padding: 120px 0px;
+    background-image: url('../../../assets/images/divider.jpeg');
+}
+
+.transparent-btn {
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+}
+
+.transparent-btn:hover {
+    background: white;
+    color: black;
+}
+
+.navigation {
+    top: 0;
+    position: fixed;
+    width: 30%;
+    margin-left: 2%;
+    background-color: #999;
+    color: #fff;
+}
+
+.navigation__link {
+    display: block;
+    color: #ddd;
+    text-decoration: none;
+    padding: 1em;
+    font-weight: 400;
+}
+
+.navigation__link:hover {
+    background-color: #aaa;
+}
+
+.navigation__link.active {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,28 @@
+a.internal-link.navbar-brand {
+    width: 100%;
+}
+
+.navbar-brand {
+    height: inherit;
+}
+
+ul.nav.navbar-nav {
+    width: 100%;
+}
+
+ul.nav.navbar-nav {
+    margin-bottom: 20px;
+}
+
+.btnparroquia {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.btnp {
+    margin-right: 0px;
+}
+
+.lang {
+    color: white;
+}

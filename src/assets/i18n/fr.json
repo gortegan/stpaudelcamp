@@ -1,0 +1,102 @@
+{
+    "menu" : {
+      "titulo": "MENU",
+      "home" : "INICI",
+      "quisom" : "QUI SOM",
+      "agenda" : "AGENDA",
+      "patrimoni" : "EL PATRIMONI PER MÀ DELS EXPERTS",
+      "contacte" : "CONTACTE"
+    },
+    "home": {
+      "portada":{
+        "portada": "Título francés",
+        "subportada": "Projectes globals de desenvolupament i gestió cultural.",
+        "portada_boton" : "Coneix Discrepantia"
+      },
+      "servicios" : {
+        "serv1": {
+          "titulo": "Servei 1",
+          "descripcion" : "With supporting text below as a natural lead-in to additional content."
+        },
+        "serv2": {
+          "titulo": "Servei 2",
+          "descripcion" : "With supporting text below as a natural lead-in to additional content."
+        },
+        "serv3": {
+          "titulo": "Servei 3",
+          "descripcion" : "With supporting text below as a natural lead-in to additional content."
+        },
+        "boton" : "Més informació"
+      },
+      "informacion" : {
+        "par1" : "lkjlkj",
+        "par2" : "DISCREPANTIA es defineix com l’element possibilitador que fa la mediació entre la creació, la participació i el consum cultural, capaç d'ajudar a desenvolupar el treball"
+      },
+      "cards": {
+        "card1": {
+          "titulo": "Informació destacada",
+          "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.",
+          "boton": "Més informació"
+        },
+        "card2": {
+          "titulo": "Informació destacada",
+          "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.",
+          "boton": "Més informació"
+        },
+        "card3": {
+          "titulo": "Informació destacada frances",
+          "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.",
+          "boton": "Més informació"
+        }
+      }
+    },
+    "agenda": {
+      "titulo" : "Consulta la nostra agenda"
+    },
+    "quisom" : {
+      "titulo" : "DISCREPANTIA",
+      "subtitulo" : "Cultura en qualsevol lloc; cultura amb els sentits.",
+      "par1" : "El Patrimoni Cultural, amb tots els seus béns tangibles i intangibles, s'ha convertit en un valor de desenvolupament i una activitat generadora d'ocupació. El turisme local, el turisme d'interior, el turisme alternatiu… són consumidors, tots ells, relacionats d'alguna manera amb el patrimoni cultural i han produït en aquests anys un al·luvió d'iniciatives individuals i empresarials que passen per la rehabilitació, cura, dinamització i posada en valor del patrimoni de cada localitat. A més de donar a la comunitat senyals d'identitat i de memòria històrica, d’idiosincràsia local, és un motor econòmic gens menyspreable que està sent recolzat des de l’administració, tant local com nacional.",
+      "par2" : "El Patrimoni, a dia d’avui, és una activitat que necessita de professionals creatius i emprenedors, amb una formació integral que permetin el seu desenvolupament i que contribueixin a la sostenibilitat dels territoris. Ja no és suficient l’existència del patrimoni, cal que hi hagi una dinamització que el revalori i que el posi a l’abast de les noves necessitats que demanden els possibles usuaris.",
+      "par3" : "DISCREPANTIA es defineix com l’element possibilitador que fa la mediació entre la creació, la participació i el consum cultural, capaç d'ajudar a desenvolupar el treball artístic i d’inserir-lo en una estratègia social, territorial o de mercat i que fa viable (econòmicament, socialment, artísticament i políticament) un projecte cultural.",
+      "par4" : "Les activitats que desenvolupa volen oferir a l'espectador l'oportunitat d'immergir-se totalment durant unes hores en un espai exclusiu del patrimoni, per conèixer, a partir de la contemplació de la bellesa, la seva història a través dels sentits. Vol donar l’oportunitat d’enfonsar-se per unes hores en un altre temps i oblidar l'exterior, tot interioritzant o buscant tenir sensacions profundes i individuals."
+    },
+    "proyectos": {
+      "patrimoni" : {
+        "titulo" : "DISCREPANTIA",
+        "subtitulo" : "Cultura en qualsevol lloc; cultura amb els sentits.",
+        "par1" : "El Patrimoni Cultural, amb tots els seus béns tangibles i intangibles, s'ha convertit en un valor de desenvolupament i una activitat generadora d'ocupació. El turisme local, el turisme d'interior, el turisme alternatiu… són consumidors, tots ells, relacionats d'alguna manera amb el patrimoni cultural i han produït en aquests anys un al·luvió d'iniciatives individuals i empresarials que passen per la rehabilitació, cura, dinamització i posada en valor del patrimoni de cada localitat. A més de donar a la comunitat senyals d'identitat i de memòria històrica, d’idiosincràsia local, és un motor econòmic gens menyspreable que està sent recolzat des de l’administració, tant local com nacional.",
+        "par2" : "El Patrimoni, a dia d’avui, és una activitat que necessita de professionals creatius i emprenedors, amb una formació integral que permetin el seu desenvolupament i que contribueixin a la sostenibilitat dels territoris. Ja no és suficient l’existència del patrimoni, cal que hi hagi una dinamització que el revalori i que el posi a l’abast de les noves necessitats que demanden els possibles usuaris.",
+        "par3" : "DISCREPANTIA es defineix com l’element possibilitador que fa la mediació entre la creació, la participació i el consum cultural, capaç d'ajudar a desenvolupar el treball artístic i d’inserir-lo en una estratègia social, territorial o de mercat i que fa viable (econòmicament, socialment, artísticament i políticament) un projecte cultural.",
+        "par4" : "Les activitats que desenvolupa volen oferir a l'espectador l'oportunitat d'immergir-se totalment durant unes hores en un espai exclusiu del patrimoni, per conèixer, a partir de la contemplació de la bellesa, la seva història a través dels sentits. Vol donar l’oportunitat d’enfonsar-se per unes hores en un altre temps i oblidar l'exterior, tot interioritzant o buscant tenir sensacions profundes i individuals."
+      }
+    },
+    "contacto" : {
+      "titulo" : "Discrepantia",
+      "subtitulo" : "Contacta amb nosaltres",
+      "telefono" : "Teléfon: 69069069069",
+      "correo" : "Correu: info@discrepantia.com",
+      "direccion" : "Correu: info@discrepantia.com",
+      "fax" : "Fax: 939838973",
+      "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+    },
+    "cookies": {
+      "mensaje" : "Utilizamos cookies propias y de terceros para obtener datos estadísticos de la navegación de nuestros usuarios y mejorar nuestros servicios. Si acepta o continúa navegando, consideramos que acepta su uso. Puede obtener más información pulse",
+      "link" : "aquí.",
+      "pagina" : {
+        "titulo" : "Avís legal",
+        "par1" : "Aquest lloc web i el domini discrepantia.com pertany a Discrepantia (Ses Anelletes S.L.), amb domicili a Barcelona, 08023. El lloc web i tots els seus continguts, incloent-hi els textos, imatges, so i qualsevol altre material, són propietat de Discrepantia o d'algun organisme vinculat, o de tercers que hagin autoritzat l'ús d'aquests continguts a l’empresa. Discrepantia posa els continguts a disposició pública amb finalitats d'informació i d'investigació atenent a les funcions que li són pròpies i, tret que s'indiqui de forma expressa per a casos particulars, els continguts d'aquest lloc web estan subjectes a una llicència Creative Commons de Reconeixement-NoComercial- SenseObraDerivada 2.5 Espanya. Aquesta llicència autoritza la reproducció i comunicació pública dels continguts sempre que se citi els autors i la font (Discrepantia o Discrepantia Editors) i no autoritza usos comercials ni fer-ne obres derivades. ",
+        "par2" : "Les condicions d'ús del lloc web són les següents:",
+        "condiciones" : {
+            "cond1" : "Només està autoritzat l'ús no comercial. No està permesa la modificació del web ni dels seus continguts. No s'autoritzen presentacions dels continguts d'aquest lloc web en una finestra aliena (framing) sense l'autorització expressa del propietari. Discrepantia presenta per aquest mitjà els dissenys i logotips que la identifiquen, els quals poden ser utilitzats únicament per identificar activitats o iniciatives pròpies.",
+            "cond2" : "La informació administrativa facilitada a través d'aquest web no substitueix la publicitat legal de les lleis, de les disposicions generals i dels actes que hagin de ser publicats formalment en els òrgans adients per fer-ho.",
+            "cond3" : "Discrepantia no es fa responsable de la informació que es pot obtenir a través d'enllaços a sistemes externs que no siguin dependents de l’empresa.",
+            "cond4" : "Discrepantia no garanteix que el web i el servidor estiguin lliures de virus i no es fa responsable dels possibles danys causats per l'accés al web o pels perjudicis causats per la impossibilitat d'accedir-hi a causa d'avaries, desconnexions o sobrecàrrega de les línies. Tampoc es fa responsable dels danys causats per terceres persones que facin intromissions il·legítimes fora del seu control. Quan sigui possible s'advertirà els usuaris prèviament sobre possibles interrupcions del web i/o dels seus serveis vinculats.",
+            "cond5" : "Discrepantia informa que l'ús de galetes per a processos interns de funcionament o altres mitjans tecnològics o analògics que es puguin utilitzar serviran per emmagatzemar informació que permeti identificar la persona física usuària del web.",
+            "cond6" : "Discrepantia en compliment de la normativa de protecció de dades de caràcter personal garanteix la confidencialitat de les dades personals que es puguin obtenir utilitzant formularis o altres elements a fi de oferir un servei. En qualsevol cas els usuaris en seran informats prèviament abans d'omplir els formularis. Les dades recollides s'utilitzaran únicament per a la finalitat indicada en cada cas.",
+            "cond7" : "Discrepantia es reserva el dret a modificar unilateralment, en qualsevol moment i sense previ avís, la presentació, configuració i els continguts del web i les condicions requerides per al seu ús.",
+            "cond8" : "Discrepantia es reserva el dret d'emprendre les accions legals que cregui oportunes en cas de vulneració dels drets de propietat intel·lectual. En cas de possibles conflictes relatius a aquest lloc web serà el dret de l'Estat espanyol i de Catalunya el que regirà, i seran els jutjats de Barcelona els que hi tindran competència. "
+        }
+      }
+    }
+}
