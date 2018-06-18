@@ -22,6 +22,7 @@ import {HttpClientModule, HttpClient} from '@angular/common/http';
 import {TranslateModule, TranslateLoader} from '@ngx-translate/core';
 import {TranslateHttpLoader} from '@ngx-translate/http-loader';
 import { Http } from '@angular/http';
+import { CookieLawModule } from 'angular2-cookie-law';
 @NgModule({
   declarations: [
     AppComponent,
@@ -38,6 +39,7 @@ import { Http } from '@angular/http';
   ],
   imports: [
     BrowserModule,
+    CookieLawModule,
     APP_ROUTES,
     RouterModule,
     MatDialogModule,
