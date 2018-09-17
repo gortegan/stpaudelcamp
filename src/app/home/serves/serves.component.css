@@ -3,3 +3,13 @@ i.material-icons {
     color: black;
     margin: 20px 0px;
 }
+
+.example-card {
+    height: 350px;
+}
+
+.mat-card-actions {
+    position: absolute;
+    bottom: 35px;
+    right: 25px;
+}

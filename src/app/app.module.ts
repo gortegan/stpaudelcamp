@@ -23,6 +23,7 @@ import {TranslateModule, TranslateLoader} from '@ngx-translate/core';
 import {TranslateHttpLoader} from '@ngx-translate/http-loader';
 import { Http } from '@angular/http';
 import { CookieLawModule } from 'angular2-cookie-law';
+import { InfoComponent } from './home/info/info.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -35,6 +36,7 @@ import { CookieLawModule } from 'angular2-cookie-law';
     HistoryComponent,
     ContactComponent,
     FooterComponent,
+    InfoComponent,
 
   ],
   imports: [

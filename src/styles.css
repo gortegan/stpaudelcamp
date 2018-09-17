@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+
+div#calendar h2 {
+    font-size: 25px !important;
+}
+
+.fc-left h2 {
+    font-size: 20px;
+}
+
+.fc-toolbar h2 {
+    margin: 0;
+    font-size: 20px;
+}
+
+.fc-today-button {
+    display: none;
+}
