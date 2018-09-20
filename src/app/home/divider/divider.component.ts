@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import {MatDialog, MatDialogRef, MAT_DIALOG_DATA} from '@angular/material';
 import { HistoryComponent } from '../../history/history.component';
 @Component({
   selector: 'app-divider',
@@ -8,7 +7,7 @@ import { HistoryComponent } from '../../history/history.component';
 })
 export class DividerComponent implements OnInit {
 
-  constructor(public dialog: MatDialog) { }
+  constructor() { }
 
   ngOnInit() {
   }

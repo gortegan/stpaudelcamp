@@ -24,6 +24,8 @@ import {TranslateHttpLoader} from '@ngx-translate/http-loader';
 import { Http } from '@angular/http';
 import { CookieLawModule } from 'angular2-cookie-law';
 import { InfoComponent } from './home/info/info.component';
+import { CalendarComponent } from './calendar/calendar.component';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -37,6 +39,7 @@ import { InfoComponent } from './home/info/info.component';
     ContactComponent,
     FooterComponent,
     InfoComponent,
+    CalendarComponent,
 
   ],
   imports: [
@@ -50,6 +53,7 @@ import { InfoComponent } from './home/info/info.component';
     MatButtonModule,
     MatCheckboxModule,
     MatIconModule,
+    MatDialogModule,
     MatStepperModule,
     FormsModule,
     ReactiveFormsModule,

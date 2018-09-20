@@ -79,9 +79,7 @@
 }
 
 @media (max-width: 991px) {
-    .timeline {
-        display: none;
-    }
+
     /* container */
     .cover .container {
         width: 100% !important;
@@ -101,6 +99,7 @@
         padding-left: 0px;
     }
     .side-navigation {
+        background: rgba(35, 35, 35) !important;
         width: 100%;
         height: auto;
     }
